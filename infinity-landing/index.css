@@ -202,7 +202,11 @@ body{
 }
 
 
-
+.restrictions-container{
+  font-size: 12px;
+  padding: 30px;
+  
+}
 
 
 /* media queries for small screen */
