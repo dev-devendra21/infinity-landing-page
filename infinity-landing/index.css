@@ -171,6 +171,36 @@ body{
   padding: 10px;
 }
 
+.accordion-button{
+  outline-color: white;
+  color: white;
+}
+
+
+.footer-unorder-list{
+  list-style-type: none;
+}
+
+
+.footer-heading{
+  font-size: 20px;
+}
+
+.footer-link{
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.eng-text{
+  color: grey;
+  border-right: 2px solid grey;
+  padding-right: 5px;
+}
+
+.upper-footer-container{
+  background-color: #232328;
+}
+
 /* media queries for small screen */
 
 @media (max-width: 767px) {
