@@ -198,8 +198,12 @@ body{
 }
 
 .upper-footer-container{
-  background-color: #232328;
+  background-color: #212529;
 }
+
+
+
+
 
 /* media queries for small screen */
 
@@ -256,6 +260,11 @@ body{
   .badge-text-container {
     text-align: center;
   }
+
+  .footer-unorder-list{
+    padding: 0;
+  }
+
 
   
 }
